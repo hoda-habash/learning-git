@@ -1,6 +1,7 @@
 # our first git repo
 this is a _practice_ repo for git and github basics
 - [signature 1](#signature-1)
+- [signature 2](#signature-2)
 
 ### signature 1
 name:janw4ld</br>
